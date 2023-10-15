@@ -1,0 +1,4 @@
+/.venv
+/repository/test
+/repository/train
+/repository/valid
