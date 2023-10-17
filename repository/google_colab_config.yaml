@@ -1,5 +1,5 @@
 
-path: ''E:\\Code Repository\\Campus\\Big Data Analytics\\Final Project\\YOLO\\repository\\data' # dataset root dir
+path: 'E:\\Code Repository\\Campus\\Big Data Analytics\\Final Project\\YOLO\\repository\\data' # dataset root dir
 train: images/train  # train images (relative to 'path')
 val: images/train  # val images (relative to 'path')
 
