@@ -13,5 +13,6 @@ The folder tree for this folder:
         /labels
             image1.txt
 
+> PS:
 > Why don't you just push the image anyway? 
-> Because it may broke my git pipeline.
+> Because it may broke my git.
